@@ -1,0 +1,2 @@
+[2024-12-06T12:44:35.080522+00:00] my_logger.INFO: This is an info log. [] []
+[2024-12-06T12:44:35.081039+00:00] my_logger.ERROR: This is an error log. [] []
